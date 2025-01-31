@@ -1,0 +1,10 @@
+Hello everyone
+
+Here is our team representing the topic : A client serve application where 3 can use the concept of inter process communication, multithreading, synchronization.
+
+Our team members are:
+1.swadesmita sahoo
+
+
+
+
